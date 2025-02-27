@@ -1,0 +1,10 @@
+def tata():
+	print('Coucou')
+	print('Je ne suis pas d'accord')
+	
+	
+def coucou():
+	print('Hello')
+	
+	tata()
+	
